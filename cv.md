@@ -37,7 +37,7 @@
   <<function multiply($a, $b) {  
       return $a*$b;}>>
 ###   **6. Work experience** 
-              [CV](https://github.com/Sasha329/rsschool-cv/blob/bc91f4e717761e017995dbda0a48dadd452db0ae/cv.md)
+              [CV] (https://github.com/Sasha329/rsschool-cv/blob/bc91f4e717761e017995dbda0a48dadd452db0ae/cv.md)
 ###   **7. Education**
 higher, awarded qualifications marketing programmer
 ###   **8. English language**
