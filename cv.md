@@ -1,7 +1,7 @@
              CV
 	    ======
 
-![Photo](https://drive.google.com/drive/u/0/my-drive.jpg)
+![photo_2022-09-18_19-44-46](https://user-images.githubusercontent.com/112116841/191086346-b5d885d4-d551-4a51-99dd-301f1728f267.jpg)
 
 ###  **1. First name**
           Alexandra
@@ -37,7 +37,7 @@
   <<function multiply($a, $b) {  
       return $a*$b;}>>
 ###   **6. Work experience** 
-              [CV](https://github.com/Sasha329/rsschool-cv/cv)
+              [CV](https://github.com/Sasha329/rsschool-cv/blob/bc91f4e717761e017995dbda0a48dadd452db0ae/cv.md)
 ###   **7. Education**
 higher, awarded qualifications marketing programmer
 ###   **8. English language**
