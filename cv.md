@@ -1,5 +1,5 @@
              CV
-	     ==
+	    ======
 
 ![Photo](https://drive.google.com/drive/u/0/my-drive.jpg)
 
@@ -13,13 +13,13 @@
        +intresting stable hig-paying job
        +financial independence
        +development of my skills
-        **Priorities:**
+###    **Priorities:**
        +work
        +personal life
        +family
        +study
        +self-development
-      **Strengths:**
+###   **Strengths:**
        +enthusiasm
        +reliability
        +creativity
