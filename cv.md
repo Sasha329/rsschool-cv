@@ -1,6 +1,8 @@
              CV
 	     ==
 
+![Photo](https://drive.google.com/drive/u/0/my-drive.jpg)
+
 ###  **1. First name**
           Alexandra
 ###   **Second name**
